@@ -1,11 +1,5 @@
 # Algomi QA Avro
 
-## Documentation / Guide
-
-Please read the below guide for a full explanation of how to use this repository
-
-https://confluence.algomi.net/display/PJ/Algomi+ALFA+Usage+Analytics
-
 ## Avro Commands
 
 - Avro to Json
